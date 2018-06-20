@@ -17,10 +17,11 @@ def first_student_by_index
   "Nicki Minaj",
   "Rihanna"
 ]
-
 puts student_names.first
 end 
 puts first_student_by_index
+
+
 
 # def fourth_student_by_index
 #   # Write a solution that returns the first student in the array student_names
