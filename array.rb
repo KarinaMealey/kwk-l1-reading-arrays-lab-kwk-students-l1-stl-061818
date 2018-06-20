@@ -6,3 +6,4 @@
 # 
 
 student_list = ["Caroline", "Millie", "Sam", "Sonali"]
+puts student_list
