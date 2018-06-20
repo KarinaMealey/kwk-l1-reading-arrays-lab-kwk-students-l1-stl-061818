@@ -17,7 +17,7 @@ def first_student_by_index
   "Nicki Minaj",
   "Rihanna"
 ]
-puts student_names.first
+puts student_names[0]
 end 
 puts first_student_by_index
 
