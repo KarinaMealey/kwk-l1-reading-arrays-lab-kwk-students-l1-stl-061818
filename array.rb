@@ -1,8 +1,8 @@
 
 
-# disney = ["Moana", "Elsa", "Cinderella", "Mickey Mouse", "Mulan"]
-# disney.push("Pooh", "Tigger")
-# puts disney 
+disney = ["Moana", "Elsa", "Cinderella", "Mickey Mouse", "Mulan"]
+disney.push("Pooh", "Tigger")
+puts disney 
 
 
 age = [16, 16, 14, 15].length
