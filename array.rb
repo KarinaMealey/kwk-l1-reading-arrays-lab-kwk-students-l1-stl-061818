@@ -9,4 +9,5 @@
 book = ["Harry Potter", "To Kill a Mockingbird", "A Tree Grows in Brooklyn", "19 Minutes"]
 
 
-books.push("geometry textbook")
+book.push("geometry textbook")
+puts book
