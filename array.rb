@@ -1,4 +1,5 @@
 disney = ["Moana", "Elsa", "Cinderella", "Mickey Mouse", "Mulan"]
+disney.push("Pooh", "Tigger")
 puts disney 
 
 
@@ -6,8 +7,8 @@ puts disney
 # puts age
 
 
-book = ["Harry Potter", "To Kill a Mockingbird", "A Tree Grows in Brooklyn", "19 Minutes"]
+# book = ["Harry Potter", "To Kill a Mockingbird", "A Tree Grows in Brooklyn", "19 Minutes"]
 
 
-book.push("geometry textbook")
-puts book
+# book.push("geometry textbook")
+# puts book
