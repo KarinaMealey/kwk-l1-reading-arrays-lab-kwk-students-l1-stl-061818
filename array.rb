@@ -1,7 +1,7 @@
 
 
-disney = ["Moana", "Elsa", "Cinderella", "Mickey Mouse", "Mulan"]
-disney.push("Pooh", "Tigger")
+disney = ["Moana", "Elsa", "Cinderella", "Mickey Mouse", "Mulan"].length
+
 puts disney 
 
 
